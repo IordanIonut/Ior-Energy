@@ -227,8 +227,7 @@ error_reporting(0);
         <!-- end home-social -->
     </section> <!-- end s-home -->
 
-    <?php include("phpCode/pause.php"); ?>
-    <?php include('phpCode/batteryChange.php');?>
+
 
     <!-- about
     ================================================== -->
