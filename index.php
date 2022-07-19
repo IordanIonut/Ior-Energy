@@ -73,7 +73,7 @@ error_reporting(0);
 </head>
 
 <body id="top">
-        <p>asdasadasasdasdasds</p>
+        
     <!-- header
     ================================================== -->
     <header class="s-header">
