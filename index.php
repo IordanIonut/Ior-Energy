@@ -2,6 +2,8 @@
 session_start();
 // Turn off error reporting
 error_reporting(0);
+
+
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 9 ]><html class="no-js oldie" lang="en"> <![endif]-->
